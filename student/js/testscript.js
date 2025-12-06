@@ -495,8 +495,8 @@ function endTest() {
   const email1 = localStorage.getItem("userEmail");
 
   // Telegram bot ma'lumotlari
-  const botToken = "8321370672:AAELYGYZY1ir0iEJUr9dWL0bHHqq9Zg1nzc"; // Bot tokenini o'zgartiring
-  const chatId = "7438762563"; // O'zingizning chat ID ni kiriting
+  const botToken = "8401133138:AAGHoAkdDeX3LqVnnosLCulqC9iL7igc5vk"; // Bot tokenini o'zgartiring
+  const chatId = "255733408"; // O'zingizning chat ID ni kiriting
 
   // Xabar matni
   const message = `
